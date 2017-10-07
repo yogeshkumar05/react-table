@@ -3,6 +3,9 @@ Responsive table demo using ReactJS
 1. Pagination
 2. Client side searching and sorting
 
+# Demo
+https://react-table-demo.herokuapp.com/
+
 # Steps to run the project
 
 1. clone the repository
